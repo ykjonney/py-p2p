@@ -1,0 +1,12 @@
+sphinx
+sphinx_rtd_theme
+nose
+coverage
+pypi-publisher
+coloredlogs
+cffi==1.10.0
+ipaddress==1.0.18
+pycparser==2.18
+rlp==0.5.1
+pysha3
+gevent==1.3.7
