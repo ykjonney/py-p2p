@@ -37,3 +37,5 @@ class Discovery(object):
         pass
     def ping(self, endpoint):
         pass
+    def find_neighbors(self,node,target_key):
+        pass
